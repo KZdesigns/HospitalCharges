@@ -55,6 +55,7 @@
             this.numDaysTextBox.Name = "numDaysTextBox";
             this.numDaysTextBox.Size = new System.Drawing.Size(100, 20);
             this.numDaysTextBox.TabIndex = 0;
+            this.numDaysTextBox.Text = "0";
             // 
             // medicationTextBox
             // 
@@ -62,6 +63,7 @@
             this.medicationTextBox.Name = "medicationTextBox";
             this.medicationTextBox.Size = new System.Drawing.Size(100, 20);
             this.medicationTextBox.TabIndex = 1;
+            this.medicationTextBox.Text = "0";
             // 
             // surgicalTextBox
             // 
@@ -69,6 +71,7 @@
             this.surgicalTextBox.Name = "surgicalTextBox";
             this.surgicalTextBox.Size = new System.Drawing.Size(100, 20);
             this.surgicalTextBox.TabIndex = 2;
+            this.surgicalTextBox.Text = "0";
             // 
             // labFeesTextBox
             // 
@@ -76,6 +79,7 @@
             this.labFeesTextBox.Name = "labFeesTextBox";
             this.labFeesTextBox.Size = new System.Drawing.Size(100, 20);
             this.labFeesTextBox.TabIndex = 3;
+            this.labFeesTextBox.Text = "0";
             // 
             // rehabTextBox
             // 
@@ -83,6 +87,7 @@
             this.rehabTextBox.Name = "rehabTextBox";
             this.rehabTextBox.Size = new System.Drawing.Size(100, 20);
             this.rehabTextBox.TabIndex = 4;
+            this.rehabTextBox.Text = "0";
             // 
             // numDaysLabel
             // 
